@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuez</string>
+    <string name="question_text">Konstantinopal is the largest city</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_item">YOU are Right</string>
+    <string name="uncorrect_item">YOU are Wrong</string>
+    <string name="next_item">NEXT</string>
+    <string name="back_item">BACK</string>
+    <string name="question_index1">Moscow is the center of Russia</string>
+    <string name="question_index2">London is the center of Russia</string>
+    <string name="question_index3">Big Ben is the center of Russia</string>
+    <string name="question_index4">Kiev is the center of Ukraina</string>
+    <string name="question_index5">Mitishi is the center of USA</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="warning_text">Are you sure you want to do it?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="toast_alarm">cheating is wrong!</string>
+</resources>
